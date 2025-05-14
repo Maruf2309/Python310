@@ -1,0 +1,10 @@
+{
+    "maruf": {
+        "pin": "5678",
+        "balance": 700,
+        "history": [
+            "Deposited $1000",
+            "Withdrew $300"
+        ]
+    }
+}
